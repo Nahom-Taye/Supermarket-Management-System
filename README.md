@@ -67,10 +67,14 @@ A comprehensive database project for managing supermarket operations, built with
 
 ## 👥 Team — Group 4
 
-- Nahom Taye
-- [Teammate 2]
-- [Teammate 3]
-
+Nahom Taye
+Dagim Huruma 
+Abenezer Abera 
+Lensa Habtamu 
+Abubeker Dilgeba 
+Netsanet Mulugeta 
+Biniyam Eyob 
+ 
 **Hawassa University — Information Systems**
 
 ---
