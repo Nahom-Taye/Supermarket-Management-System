@@ -1,40 +1,56 @@
-🛒 Supermarket Management System — Advanced Database Project
+# 🛒 Supermarket Management System — Advanced Database Project
+
 A comprehensive database project for managing supermarket operations, built with advanced MySQL features including transaction management, role-based access control, audit logging, and query optimization.
+
 > Group 4 | Hawassa University — Information Systems
+
 ---
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-Database: MySQL
-Concepts: Advanced SQL, Transactions, Role-Based Access Control, Concurrency, Backup & Recovery
+
+- **Database:** MySQL
+- **Concepts:** Advanced SQL, Transactions, Role-Based Access Control, Concurrency, Backup & Recovery
+
 ---
-📁 Project Structure
+
+## 📁 Project Structure
+
 ```
-├── DATABASE SETUP.sql               # Initial database and schema setup
-├── TABLE CREATION.sql               # All table definitions
-├── SAMPLE DATA INSERTION.sql        # Sample supermarket data
-├── TRANSACTION MANAGEMENT.sql       # Handles atomic operations
-├── AUDIT LOGGING.sql                # Tracks all database changes
-├── ROLE-BASED ACCESS CONTROL.sql    # User roles and permissions
-├── BACKUP AND RECOVERY STRATEGIES.sql  # DB backup procedures
-├── COMPLEX JOIN AND OPTIMIZATION.sql   # Advanced join queries
-├── ADVANCED QUERY OPTIMIZATION.sql     # Indexed and optimized queries
-├── concurrency_demo/                # Concurrency handling demos
+├── DATABASE SETUP.sql
+├── TABLE CREATION.sql
+├── SAMPLE DATA INSERTION.sql
+├── TRANSACTION MANAGEMENT.sql
+├── AUDIT LOGGING.sql
+├── ROLE-BASED ACCESS CONTROL.sql
+├── BACKUP AND RECOVERY STRATEGIES.sql
+├── COMPLEX JOIN AND OPTIMIZATION.sql
+├── ADVANCED QUERY OPTIMIZATION.sql
+├── concurrency_demo/
 └── Advanced DataBase Project Documentation.pdf
 ```
+
 ---
-✨ Features
-🗄️ Database Setup — Structured schema for supermarket operations
-🔐 Role-Based Access Control — Admin, cashier, and manager permissions
-📋 Audit Logging — Tracks every change made to the database
-💳 Transaction Management — Ensures data integrity across operations
-🔄 Concurrency Control — Handles simultaneous database access
-💾 Backup & Recovery — Strategies to protect and restore data
-⚡ Query Optimization — Fast, efficient queries using indexes and joins
+
+## ✨ Features
+
+- 🗄️ **Database Setup** — Structured schema for supermarket operations
+- 🔐 **Role-Based Access Control** — Admin, cashier, and manager permissions
+- 📋 **Audit Logging** — Tracks every change made to the database
+- 💳 **Transaction Management** — Ensures data integrity across operations
+- 🔄 **Concurrency Control** — Handles simultaneous database access
+- 💾 **Backup & Recovery** — Strategies to protect and restore data
+- ⚡ **Query Optimization** — Fast, efficient queries using indexes and joins
+
 ---
-⚙️ How to Run
-Install MySQL or XAMPP
-Open MySQL Workbench or phpMyAdmin
-Run the SQL files in this order:
+
+## ⚙️ How to Run
+
+1. Install **MySQL** or **XAMPP**
+2. Open **MySQL Workbench** or **phpMyAdmin**
+3. Run the SQL files in this order:
+
 ```
 1. DATABASE SETUP.sql
 2. TABLE CREATION.sql
@@ -46,17 +62,19 @@ Run the SQL files in this order:
 8. COMPLEX JOIN AND OPTIMIZATION.sql
 9. ADVANCED QUERY OPTIMIZATION.sql
 ```
+
 ---
-👥 Team — Group 4
-Nahom Taye
-Dagim Huruma 
-Abenezer Abera 
-Lensa Habtamu 
-Abubeker Dilgeba 
-Netsanet Mulugeta 
-Biniyam Eyob 
- 
-Hawassa University — Information Systems
+
+## 👥 Team — Group 4
+
+- Nahom Taye
+- [Teammate 2]
+- [Teammate 3]
+
+**Hawassa University — Information Systems**
+
 ---
-📬 Contact
-Nahom Taye — github.com/Nahom-Taye
+
+## 📬 Contact
+
+**Nahom Taye** — https://github.com/Nahom-Taye
